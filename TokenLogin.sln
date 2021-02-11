@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenLogin", "TokenLogin\TokenLogin.csproj", "{06C9317B-9BF1-401A-AD7A-08A186CF321C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestTokenLoginProject", "NUnitTestTokenLoginProject\NUnitTestTokenLoginProject.csproj", "{DE78A5B2-248A-4CD9-96DD-BBD8C8E02B8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06C9317B-9BF1-401A-AD7A-08A186CF321C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C9317B-9BF1-401A-AD7A-08A186CF321C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C9317B-9BF1-401A-AD7A-08A186CF321C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C9317B-9BF1-401A-AD7A-08A186CF321C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE78A5B2-248A-4CD9-96DD-BBD8C8E02B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE78A5B2-248A-4CD9-96DD-BBD8C8E02B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE78A5B2-248A-4CD9-96DD-BBD8C8E02B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE78A5B2-248A-4CD9-96DD-BBD8C8E02B8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {183FBE6E-99BC-43FC-829C-E15283DD7C57}
+	EndGlobalSection
+EndGlobal
